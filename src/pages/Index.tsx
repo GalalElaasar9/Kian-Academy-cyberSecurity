@@ -235,7 +235,7 @@ export default function Index() {
               style={{ lineHeight: "1.5" }}
             >
               <span className="text-foreground">حول الداتا لقرارات...وأبدأ كايريك فى الـ</span>{" "}
-              <span className="text-gradient">Data Analysis</span>
+              <span className="text-gradient">Cyber Security</span>
               <br />
               <span className="text-foreground">من الصفر</span>
             </h1>
