@@ -156,9 +156,6 @@ const projects = [
       { id: 2, subImage: subImage2 },
       { id: 3, subImage: subImage3 },
       { id: 4, subImage: subImage4 },
-      // {id:5 , subImage:subImage5},
-      // {id:6 , subImage:subImage6},
-      // {id:7 , subImage:subImage7}
     ],
   },
   { id: 2, img: mainImageProject_2, subImages: [{ id: 1, subImage: subImageProject_2 }] },
@@ -231,7 +228,7 @@ export default function Index() {
           >
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-card/40 backdrop-blur-md border border-border text-md font-medium text-foreground mb-8">
               <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
-              خصم لفترة محدودة على دبلومة الـ Data Analysis عدد ساعات الكورس +120
+              خصم لفترة محدودة على دبلومة الـ Cyber Security  عدد ساعات الكورس +120
             </span>
             <h1
               className="text-[31px] md:text-7xl lg:text-[74px] font-black mb-6 leading-[1.1] tracking-tight"
